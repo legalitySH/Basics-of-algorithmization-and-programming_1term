@@ -1,0 +1,5 @@
+﻿  dop1.cpp
+C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабараторная работа №2\lab 02 shimko\dop1.cpp(3,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабараторная работа №2\lab 02 shimko\dop1.cpp(40,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабараторная работа №2\lab 02 shimko\dop1.cpp(49,17): warning C4305: инициализация: усечение из "double" в "float"
+  lab 02 shimko.vcxproj -> C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабараторная работа №2\lab 02 shimko\x64\Debug\lab 02 shimko.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабораторная работа №6\dops\dop5\dop5\main.cpp(2,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабораторная работа №6\dops\dop5\dop5\main.cpp(7,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабораторная работа №6\dops\dop5\dop5\main.cpp(14,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  dop5.vcxproj -> C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабораторная работа №6\dops\dop5\x64\Debug\dop5.exe

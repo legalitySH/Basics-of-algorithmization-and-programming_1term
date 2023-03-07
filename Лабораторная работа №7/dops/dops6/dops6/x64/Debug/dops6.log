@@ -1,0 +1,4 @@
+﻿  dops.cpp
+C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабораторная работа №6\dops\dops6\dops6\dops.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабораторная работа №6\dops\dops6\dops6\dops.cpp(27,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  dops6.vcxproj -> C:\Users\Алексей\Desktop\1 КУРС\АоИП\Лабараторные работы\Лабораторная работа №6\dops\dops6\x64\Debug\dops6.exe

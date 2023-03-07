@@ -1,0 +1,7 @@
+﻿  dop3.cpp
+D:\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №9\dop3\dop3.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  dop3.vcxproj -> D:\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №9\dop3\x64\Release\dop3.exe

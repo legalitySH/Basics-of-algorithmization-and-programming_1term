@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  lab09.cpp
+D:\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №9\lab09OAP\lab09.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project1.vcxproj -> D:\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №9\lab09OAP\x64\Debug\lab09OAP.exe

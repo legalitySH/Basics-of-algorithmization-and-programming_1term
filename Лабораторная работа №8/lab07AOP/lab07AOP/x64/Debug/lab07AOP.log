@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(8,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(15,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(18,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(27,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(27,43): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(37,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(37,56): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(41,13): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(49,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(49,46): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(49,72): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\lab07AOP\main.cpp(55,14): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  lab07AOP.vcxproj -> C:\Users\Алексей\Desktop\1 КУРС\ОаИП\Лабараторные работы\Лабораторная работа №7\lab07AOP\x64\Debug\lab07AOP.exe
